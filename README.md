@@ -110,6 +110,14 @@ Ele apresenta:
 - Quantidade de leituras por dia;
 - Temperaturas máxima e mínima por dia.
 
+### Capturas do Dashboard
+
+![Dashboard - Visão geral](docs/dashboard.png)
+
+![Dashboard - Gráficos](docs/dashboard2.png)
+
+![Dashboard - Temperaturas](docs/dashboard3.png)
+
 ### Principais resultados
 
 Durante a análise dos dados foram identificados:
@@ -167,3 +175,4 @@ streamlit run src/dashboard.py
 O projeto demonstra a utilização de tecnologias de IoT e análise de dados para coletar, armazenar, processar e visualizar informações de temperatura.
 
 A utilização do Docker facilita a execução do banco PostgreSQL, enquanto Python, SQL, Streamlit e Plotly permitem realizar o processamento e a visualização dos dados.
+
